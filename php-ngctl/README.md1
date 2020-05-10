@@ -1,0 +1,9 @@
+
+ngctl_make_peer();
+ngctl_connect();
+ngctl_node_name();
+ngctl_node_shutdown();
+ngctl_node_msg();
+ngctl_hook_del();
+ngctl_list();	
+ngctl_node_info();

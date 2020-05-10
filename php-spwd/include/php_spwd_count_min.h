@@ -1,0 +1,1 @@
+#define SPWD_COUNT_MIN		27
